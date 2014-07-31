@@ -1,4 +1,4 @@
 pystagram
 =========
 
-pystagram for book
+pystagram for a book
